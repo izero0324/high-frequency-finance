@@ -4,7 +4,7 @@
 This is a Course Work for KCL Computational Finance (Imformatics)
 The purpose is to get familiar to SQL and Database for High-Frequency data
 
-For more assignment information, see assignment.pdf
+For more assignment information, see [assignment.pdf](https://github.com/izero0324/high-frequency-finance/blob/develop/cw01/assignment.pdf)
 
 ---
 
