@@ -1,5 +1,4 @@
-CREATE TABLE OrderDetail( 
-OrderCode CHAR(10), 
+CREATE TABLE OrderDetail( OrderCode CHAR(10), 
 MarketSegmentCode CHAR(4), 
 MarketSectorCode CHAR(4), 
 TICode CHAR(12), 
